@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8c2cc9</color>
+    <color name="colorPrimaryDark">#7a27af</color>
+    <color name="colorAccent">#c92cc0</color>
+
+    <color name="colorFAB">#FF4081</color>
+    <color name="colorPrimaryLightTransparent">#cf251200</color>
+    <color name="colorBlackGrey">#222222</color>
+
+    <color name="black_transparent">#55000000</color>
+    <color name="greyDark">#757575</color>
+    <color name="greyDark2">#535353</color>
+
+    <color name="greyLight">#d3d3d3</color>
+
+    <color name="grey">#93746A</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#fff</color>
+    <color name="whiteOff">#fafafa</color>
+
+    <color name="note">#FBC02D</color>
+    <color name="video">#e53935</color>
+    <color name="sound">#C2185B</color>
+    <color name="photo">#F57C00</color>
+    <color name="photo_gallery">#DB6E00</color>
+
+    <color name="note_transparent">#BBFBC02D</color>
+    <color name="video_transparent">#BBe53935</color>
+    <color name="sound_transparent">#BBC2185B</color>
+    <color name="photo_transparent">#BBF57C00</color>
+    <color name="primary_transparent">#BB039BE5</color>
+
+
+
+    <color name="greyImageBackground">#efefef</color>
+    <color name="greyDark700">#616161</color>
+    <color name="greyDark800">#424242</color>
+
+
+    <color name="black">#000000</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="transparent_off_black">#88000000</color>
+    <color name="transparent_off_black_dark">#bb000000</color>
+    <color name="transparent_off_white">#55ffffff</color>
+
+    ///// four matching
+    <color name="four_match_pink_1">#E91E63</color>
+    <color name="red_fav">#F44336</color>
+    <color name="four_match_purple_3">#8E24AA</color>
+    <color name="four_match_dark_red_4">#880E4F</color>
+
+    <color name="yellow">#FFFF00</color>
+
+
+
+    <!--Sound Recorder-->
+    <color name="primary">#F44336</color>
+    <color name="primary_dark">#D32F2F</color>
+    <color name="primary_light">#FFCDD2</color>
+    <color name="primary_text">#212121</color>
+    <color name="accent">#FFC107</color>
+    <color name="secondary_text">#727272</color>
+    <color name="divider">#FFFFFF</color>
+    <color name="text">#FFFFFF</color>
+    <color name="tab_strip">#B42929</color>
+    <!--Sound Recorder-->
+
+
+    <color name="seekbar_background">#40000000</color>
+    <color name="redAccent">#E91E63</color>
+    <color name="darkPrimary">#697075</color>
+
+
+    <color name="whiteGrey">#d6d6d6</color>
+    <color name="textBlue">#3e5cbd</color>
+    <!--<color name="textBlue">#3F51B5</color>-->
+    <color name="orange700Comment">#f57c00</color>
+    <color name="recyclerBackground">#E0E0E0</color>
+    <color name="orange800">#EF6C00</color>
+
+
+    <color name="offWhite">#F0F0F0</color>
+    <color name="darkBlueTRAN">#eb2f2f9f</color>
+    <color name="purpleDark">#800E72</color>
+    <color name="purpleDarkDark">#4C115B</color>
+
+
+
+    <color name="wd_dark_red">#880e4f</color>
+
+    ///// four matching
+    <color name="four_match_red_2">#f44336</color>
+
+
+    <color name="red_heart_like">#2e2e2e</color>
+    <color name="flee_color">#BF146F</color>
+    <color name="b">#d84192</color>
+    <color name="c">#eb1789</color>
+    <color name="foreground_material_light">#343434</color>
+    <color name="text_color_primary">#ffffff</color>
+
+
+</resources>
+
+
